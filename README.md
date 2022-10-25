@@ -65,4 +65,6 @@ python3 moneo.py -d -c host.ini full
 ```
 
 View Grafana dash board from address `10.21.8.6:3000`. The default username and password are both `azure`. 
-
+![vnet_image1](/images/Moneo_1.png)
+![vnet_image2](/images/Moneo_2.png)
+![vnet_image3](/images/Moneo_3.png)
